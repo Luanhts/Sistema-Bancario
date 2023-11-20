@@ -3,6 +3,7 @@ menu = """
 [S] Sacar
 [E] Extrato
 [Q] Sair
+:
 """
 saldo = 0
 limite = 500
